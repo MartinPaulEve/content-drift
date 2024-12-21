@@ -1,0 +1,10 @@
+typer
+scikit-learn
+scipy==1.12
+gensim
+numpy
+sentence_transformers
+openai==0.28
+hdbscan
+inscriptis
+nltk
